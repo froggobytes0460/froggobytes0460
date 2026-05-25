@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a 14-year-old developer and ML engineer based in Ajman, UAE, building production-ready APIs and machine learning pipelines while most of my peers are still learning to print "Hello World."
+I'm a 14-year-old developer and ML engineer (in the future) based in Ajman, UAE, building production-ready APIs and machine learning pipelines while most of my peers are still learning to print "Hello World."
 
 I'm on a focused path toward **Data Science and Software Engineering** — targeting MIT and IIT — with a hands-on, research-driven approach to learning. I don't wait for school to teach me what I want to know.
 

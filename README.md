@@ -39,19 +39,19 @@ stack = {
 
 ## Skills
 
-| Area | Technologies | Level |
-|------|-------------|-------|
-| Machine Learning | scikit-learn, NumPy, pandas | ████████░░ Solid |
-| REST APIs | FastAPI, Python | ████████░░ Solid |
-| Data Analysis | pandas, Matplotlib, Seaborn | ███████░░░ Good |
-| Algorithms & DSA | Python, C++ | █████░░░░░ Growing |
-| Deep Learning | PyTorch (learning) | ███░░░░░░░ In progress |
+| Area             | Technologies                | Level                  |
+| :--------------: | :-------------------------: | :--------------------: |
+| Machine Learning | scikit-learn, NumPy, pandas | ████████░░ Solid       |
+| REST APIs        | FastAPI, Python             | ████████░░ Solid       |
+| Data Analysis    | pandas, Matplotlib, Seaborn | ███████░░░ Good        |
+| Algorithms & DSA | Python, C++                 | █████░░░░░ Growing     |
+| Deep Learning    | PyTorch (learning)          | ███░░░░░░░ In progress |
 
 ---
 
 ## Projects
 
-### 🔬 ML Model API
+### ML Model API
 > End-to-end machine learning pipeline exposed as a REST API — trained with scikit-learn, served with FastAPI.
 
 - Trained classification/regression models on real datasets
@@ -60,7 +60,7 @@ stack = {
 
 ---
 
-### 📊 Data Analysis Pipeline
+### Data Analysis Pipeline
 > Automated data cleaning, feature engineering, and visualization pipeline built in Python.
 
 - Handles missing data, outliers, and encoding
@@ -69,16 +69,30 @@ stack = {
 
 ---
 
-*More projects coming — currently building with PyTorch and exploring NLP.*
+*More projects coming — currently building with PyTorch, exploring NLP and learning C++.*
 
 ---
 
 ## Currently learning
 
-- 🧠 **Neural networks from scratch** — following Andrej Karpathy's *Zero to Hero* series
-- 📐 **Linear algebra & calculus** — the math behind ML (MIT OCW 18.06)
-- ⚡ **Data structures & algorithms** — LeetCode + USACO competitive programming
-- 🐳 **Docker & deployment** — containerizing and shipping ML apps
+<table>
+  <tr>
+    <td align="center" width="60"><img src="./neural-network.svg" width="35" alt="Neural Network"></td>
+    <td><b>Neural networks from scratch</b> — following Andrej Karpathy's <i>Zero to Hero</i> series</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./linear-algebra.svg" width="35" alt="Linear Algebra"></td>
+    <td><b>Linear algebra & calculus</b> — the math behind ML (MIT OCW 18.06)</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./data-structures.svg" width="35" alt="Data Structures"></td>
+    <td><b>Data structures & algorithms</b> — LeetCode + USACO competitive programming</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./docker-icon.svg" width="35" alt="Docker"></td>
+    <td><b>Docker & deployment</b> — containerizing and shipping ML apps</td>
+  </tr>
+</table>
 
 ---
 
@@ -102,14 +116,19 @@ stack = {
 ![Profile summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=froggobytes0460&theme=aura_dark)
 </div>
 
-
 ---
 
 ## Connect
 
 <div align="center">
 
-📍 Ajman, UAE &nbsp;·&nbsp; 🎓 CBSE DPSA &nbsp;·&nbsp; 📬 *[yasiratiqmohammed@gamil.com]*
+
+| Location                               | Education                                   | Contact                                   |
+| :----------------------------------- : | :-----------------------------------------: | :---------------------------------------: |
+| <img src="./location.svg" width="24">  | <img src="./graduation-cap.svg" width="24"> | <img src="./email.svg" width=" 24">       |
+| Ajman, UAE                             | CBSE DPSA                                   | *[yasiratiqmohammed@gmail.com]*           |
+
+<br>
 
 *Open to research collaborations, mentorship, and project feedback.*
 
@@ -118,5 +137,5 @@ stack = {
 ---
 
 <div align="center">
-  <sub>Built with curiosity · Driven by ambition · 14 years old and just getting started.</sub>
+  <sub>Built with curiosity * Driven by ambition * 14 years old and just getting started.</sub>
 </div>

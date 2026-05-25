@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![GitHub](https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YasirAtiqMohammed)
+[![GitHub](https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/froggobytes0460)
 
 </div>
 

@@ -98,11 +98,14 @@ stack = {
 
 ## Goals
 
-```
-2026  →  USACO Bronze → Silver · First Kaggle medal · PyTorch project deployed
-2027  →  USACO Gold · Open source contribution · Research paper re-implementation  
-2028  →  JEE Advanced prep · SAT 1550+ · Internship / mentorship in AI
-2029  →  IIT / MIT — Computer Science & Engineering
+```mermaid
+timeline
+    title My Roadmap to MIT / IIT
+    2026 : USACO Bronze ➔ Silver : First Kaggle Medal : PyTorch Project Deployed
+    2027 : USACO Gold : Open Source Contribution : Research Paper Re-implementation
+    2028 : JEE Advanced Prep : SAT 1550+ Target : AI Internship & Mentorship
+    2029 : IIT / MIT Acceptance : Computer Science & Engineering
+
 ```
 
 ---

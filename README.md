@@ -124,7 +124,7 @@ stack = {
 
 
 | Location                               | Education                                   | Contact                                   |
-| :----------------------------------- : | :-----------------------------------------: | :---------------------------------------: |
+| :------------------------------------: | :-----------------------------------------: | :---------------------------------------: |
 | <img src="./location.svg" width="24">  | <img src="./graduation-cap.svg" width="24"> | <img src="./email.svg" width=" 24">       |
 | Ajman, UAE                             | CBSE DPSA                                   | *[yasiratiqmohammed@gmail.com]*           |
 
@@ -137,5 +137,5 @@ stack = {
 ---
 
 <div align="center">
-  <sub>Built with curiosity * Driven by ambition * 14 years old and just getting started.</sub>
+  <sub>Built with curiosity – Driven by ambition – 15 years old and just getting started.</sub>
 </div>

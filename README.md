@@ -17,7 +17,7 @@
 
 ## About me
 
-I'm a 14-year-old developer and ML engineer (in the future) based in Ajman, UAE, building production-ready APIs and machine learning pipelines while most of my peers are still learning to print "Hello World."
+I'm a 15-year-old developer and ML engineer (in the future) based in Ajman, UAE, building production-ready APIs and machine learning pipelines while most of my peers are still learning to print "Hello World."
 
 I'm on a focused path toward **Data Science and Software Engineering** — targeting MIT and IIT — with a hands-on, research-driven approach to learning. I don't wait for school to teach me what I want to know.
 
@@ -77,19 +77,19 @@ stack = {
 
 <table>
   <tr>
-    <td align="center" width="60"><img src="./neural-network.svg" width="35" alt="Neural Network"></td>
+    <td align="center" width="60"><img src="./svgs/neural-network.svg" width="35" alt="Neural Network"></td>
     <td><b>Neural networks from scratch</b> — following Andrej Karpathy's <i>Zero to Hero</i> series</td>
   </tr>
   <tr>
-    <td align="center"><img src="./linear-algebra.svg" width="35" alt="Linear Algebra"></td>
+    <td align="center"><img src="./svgs/linear-algebra.svg" width="35" alt="Linear Algebra"></td>
     <td><b>Linear algebra & calculus</b> — the math behind ML (MIT OCW 18.06)</td>
   </tr>
   <tr>
-    <td align="center"><img src="./data-structures.svg" width="35" alt="Data Structures"></td>
+    <td align="center"><img src="./svgs/data-structures.svg" width="35" alt="Data Structures"></td>
     <td><b>Data structures & algorithms</b> — LeetCode + USACO competitive programming</td>
   </tr>
   <tr>
-    <td align="center"><img src="./docker-icon.svg" width="35" alt="Docker"></td>
+    <td align="center"><img src="./svgs/docker-icon.svg" width="35" alt="Docker"></td>
     <td><b>Docker & deployment</b> — containerizing and shipping ML apps</td>
   </tr>
 </table>
@@ -111,7 +111,7 @@ timeline
 ---
 
 ## GitHub activity
- 
+
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=froggobytes0460&theme=dark&hide_border=true&short_numbers=true)]([https://git.io/streak-stats](https://github.com/froggobytes0460))
@@ -126,10 +126,10 @@ timeline
 <div align="center">
 
 
-| Location                               | Education                                   | Contact                                   |
-| :------------------------------------: | :-----------------------------------------: | :---------------------------------------: |
-| <img src="./location.svg" width="24">  | <img src="./graduation-cap.svg" width="24"> | <img src="./email.svg" width=" 24">       |
-| Ajman, UAE                             | CBSE DPSA                                   | *[yasiratiqmohammed@gmail.com]*           |
+| Location                                    | Education                                        | Contact                                        |
+| :-----------------------------------------: | :----------------------------------------------: | :--------------------------------------------: |
+| <img src="./svgs/location.svg" width="24">  | <img src="./svgs/graduation-cap.svg" width="24"> | <img src="./svgs/email.svg" width=" 24">       |
+| Ajman, UAE                                  | CBSE DPSA                                        | *[yasiratiqmohammed@gmail.com]*                |
 
 <br>
 

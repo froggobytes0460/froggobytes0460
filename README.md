@@ -114,9 +114,9 @@ timeline
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=froggobytes0460&theme=dark&hide_border=true&short_numbers=true)]([https://git.io/streak-stats](https://github.com/froggobytes0460))
+[![GitHub Streak](https://streak-stats.demolab.com?user=froggobytes0460&theme=dracula&hide_border=true&border_radius=4.7&short_numbers=true&card_height=200)](https://github.com/froggobytes0460)
 
-![Profile summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=froggobytes0460&theme=aura_dark)
+![Profile summary](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=froggobytes0460&theme=dracula)
 </div>
 
 ---
